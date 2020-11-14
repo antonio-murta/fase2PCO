@@ -15,7 +15,6 @@ public class Simulador {
 	private List<Par<Integer,Integer>> afetados;
 	
 	/**
-	 * o meu nome e jorge
 	 * Inicializa os atributos do novo objeto
 	 * @param ambiente O ambiente sobre o qual ocorrerao todas as simulacoes
 	 * @requires ambiente != null && ambiente.length > 0 && ambiente[0] != null
